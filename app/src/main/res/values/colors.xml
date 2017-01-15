@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#308d16</color>
+    <color name="colorPrimaryDark">#1c4f08</color>
+    <color name="colorAccent">#308d16</color>
+    <color name="sand">#FFFF00</color>
+    <color name="fingerSlider">#8e8519</color>
+</resources>
